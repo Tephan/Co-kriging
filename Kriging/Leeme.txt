@@ -1,0 +1,1 @@
+Cada señal tiene su script de kriging en R, ya que cada uno requiere de parametros de acuerdo a los datos.
